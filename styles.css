@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(84, 137, 187);
+}
+
+.zero {
+  text-align: center;
+  text-decoration-color: black;
+}
+
+.ichi {
+  width: 30%;
+  float: center;
+  font-style: italic; 
+  border: 4px solid rgb(10, 10, 63);
+  padding: 4px;
+  margin: 20px;
+}
+p.ichi {
+  font-size: 12px;
+}
+.ni {
+  float: bottom;
+}
